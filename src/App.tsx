@@ -11,13 +11,13 @@ function App() {
             <div className="flex items-center justify-between px-8 py-3">
               <h1 className="text-2xl font-bold text-white">Harsh Raj</h1>
               <div className="flex space-x-6">
-                <a href="https://github.com/HarshRaj1111" className="text-white/80 hover:text-purple-300 transition-all transform hover:scale-110">
+                <a href="https://github.com/HarshRaj1111" className="text-white/80 hover:text-purple-300 transition-all transform hover:scale-110" target="_blank">
                   <Github className="w-6 h-6" />
                 </a>
-                <a href="https://linkedin.com/in/harsh-raj-ai" className="text-white/80 hover:text-purple-300 transition-all transform hover:scale-110">
+                <a href="https://linkedin.com/in/harsh-raj-ai" className="text-white/80 hover:text-purple-300 transition-all transform hover:scale-110" target="_blank">
                   <Linkedin className="w-6 h-6" />
                 </a>
-                <a href="mailto:harshrajbpr@gmail.com" className="text-white/80 hover:text-purple-300 transition-all transform hover:scale-110">
+                <a href="mailto:harshrajbpr@gmail.com" className="text-white/80 hover:text-purple-300 transition-all transform hover:scale-110" target="_blank">
                   <Mail className="w-6 h-6" />
                 </a>
               </div>
@@ -132,13 +132,13 @@ function App() {
         <div className="container mx-auto px-6 text-center">
           <p className="mb-6 text-xl text-purple-200">Let's connect and create something amazing together.</p>
           <div className="flex justify-center space-x-6 mb-8">
-            <a href="https://github.com/HarshRaj1111" className="hover:text-purple-300 transition-all transform hover:scale-110">
+            <a href="https://github.com/HarshRaj1111" className="hover:text-purple-300 transition-all transform hover:scale-110" target="_blank">
               <Github className="w-7 h-7" />
             </a>
-            <a href="https://linkedin.com/in/harsh-raj-ai" className="hover:text-purple-300 transition-all transform hover:scale-110">
+            <a href="https://linkedin.com/in/harsh-raj-ai" className="hover:text-purple-300 transition-all transform hover:scale-110" target="_blank">
               <Linkedin className="w-7 h-7" />
             </a>
-            <a href="mailto:harshrajbpr@gmail.com" className="hover:text-purple-300 transition-all transform hover:scale-110">
+            <a href="mailto:harshrajbpr@gmail.com" className="hover:text-purple-300 transition-all transform hover:scale-110" target="_blank">
               <Mail className="w-7 h-7" />
             </a>
           </div>
