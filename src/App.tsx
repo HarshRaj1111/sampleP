@@ -80,7 +80,7 @@ function App() {
             <div className="bg-[#3F0071] rounded-2xl p-8 shadow-2xl hover:shadow-[#610094]/50 transition-all duration-300 transform hover:-translate-y-1 border border-[#610094]">
               <Terminal className="w-14 h-14 text-purple-300 mb-6" />
               <h3 className="text-2xl font-semibold mb-3 text-white">Development</h3>
-              <p className="text-purple-200">Software Development, Version Control, CI/CD</p>
+              <p className="text-purple-200">HTML, CSS, Javascript, React, Vite</p>
             </div>
           </div>
         </div>
@@ -91,38 +91,44 @@ function App() {
           <h2 className="text-4xl font-bold text-white mb-16 text-center bg-clip-text text-transparent bg-gradient-to-r from-[#610094] to-purple-300">Featured Projects</h2>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-12 max-w-5xl mx-auto">
             <div className="bg-[#150050] rounded-2xl overflow-hidden shadow-2xl hover:shadow-[#610094]/50 transition-all duration-300 transform hover:-translate-y-1 border border-[#3F0071]">
+              <a href="https://github.com/HarshRaj1111/CyberGuardHackathon" target="_blank">
               <img 
                 src="https://images.unsplash.com/photo-1555949963-aa79dcee981c?auto=format&fit=crop&w=800&q=80" 
                 alt="AI Project"
                 className="w-full h-56 object-cover hover:scale-105 transition-transform duration-300"
               />
               <div className="p-8">
-                <h3 className="text-2xl font-semibold mb-3 text-white">AI-Powered Image Recognition</h3>
+                <h3 className="text-2xl font-semibold mb-3 text-white">Cybersecurity Threat Classification</h3>
                 <p className="text-purple-200 mb-6">
-                  Developed a deep learning model for real-time object detection and classification.
+                  Developed a NLP model for real-time cybersecurity threat classification.
                 </p>
                 <div className="flex space-x-3">
                   <span className="px-4 py-2 bg-[#3F0071] text-purple-300 rounded-full text-sm">Python</span>
-                  <span className="px-4 py-2 bg-[#3F0071] text-purple-300 rounded-full text-sm">TensorFlow</span>
+                  <span className="px-4 py-2 bg-[#3F0071] text-purple-300 rounded-full text-sm">PyTorch</span>
+                  <span className="px-4 py-2 bg-[#3F0071] text-purple-300 rounded-full text-sm">BERT</span>
                 </div>
               </div>
+              </a>
             </div>
             <div className="bg-[#150050] rounded-2xl overflow-hidden shadow-2xl hover:shadow-[#610094]/50 transition-all duration-300 transform hover:-translate-y-1 border border-[#3F0071]">
+              <a href="https://github.com/HarshRaj1111/ArticulateAI" target="_blank">
               <img 
-                src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=800&q=80" 
+                src="resources\page1.jpg" 
                 alt="Data Science Project"
                 className="w-full h-56 object-cover hover:scale-105 transition-transform duration-300"
               />
               <div className="p-8">
-                <h3 className="text-2xl font-semibold mb-3 text-white">Predictive Analytics Dashboard</h3>
+                <h3 className="text-2xl font-semibold mb-3 text-white">Articulate AI</h3>
                 <p className="text-purple-200 mb-6">
-                  Built an interactive dashboard for business intelligence and predictive modeling.
+                  Built an sentence rephraser browser extension.
                 </p>
                 <div className="flex space-x-3">
-                  <span className="px-4 py-2 bg-[#3F0071] text-purple-300 rounded-full text-sm">R</span>
-                  <span className="px-4 py-2 bg-[#3F0071] text-purple-300 rounded-full text-sm">Shiny</span>
+                  <span className="px-4 py-2 bg-[#3F0071] text-purple-300 rounded-full text-sm">HTML</span>
+                  <span className="px-4 py-2 bg-[#3F0071] text-purple-300 rounded-full text-sm">CSS</span>
+                  <span className="px-4 py-2 bg-[#3F0071] text-purple-300 rounded-full text-sm">Javascript</span>
                 </div>
               </div>
+              </a>
             </div>
           </div>
         </div>
