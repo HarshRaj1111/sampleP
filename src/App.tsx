@@ -132,13 +132,13 @@ function App() {
         <div className="container mx-auto px-6 text-center">
           <p className="mb-6 text-xl text-purple-200">Let's connect and create something amazing together.</p>
           <div className="flex justify-center space-x-6 mb-8">
-            <a href="https://github.com" className="hover:text-purple-300 transition-all transform hover:scale-110">
+            <a href="https://github.com/HarshRaj1111" className="hover:text-purple-300 transition-all transform hover:scale-110">
               <Github className="w-7 h-7" />
             </a>
-            <a href="https://linkedin.com" className="hover:text-purple-300 transition-all transform hover:scale-110">
+            <a href="https://linkedin.com/in/harsh-raj-ai" className="hover:text-purple-300 transition-all transform hover:scale-110">
               <Linkedin className="w-7 h-7" />
             </a>
-            <a href="mailto:contact@example.com" className="hover:text-purple-300 transition-all transform hover:scale-110">
+            <a href="mailto:harshrajbpr@gmail.com" className="hover:text-purple-300 transition-all transform hover:scale-110">
               <Mail className="w-7 h-7" />
             </a>
           </div>
