@@ -11,13 +11,13 @@ function App() {
             <div className="flex items-center justify-between px-8 py-3">
               <h1 className="text-2xl font-bold text-white">Harsh Raj</h1>
               <div className="flex space-x-6">
-                <a href="https://github.com" className="text-white/80 hover:text-purple-300 transition-all transform hover:scale-110">
+                <a href="https://github.com/HarshRaj1111" className="text-white/80 hover:text-purple-300 transition-all transform hover:scale-110">
                   <Github className="w-6 h-6" />
                 </a>
-                <a href="https://linkedin.com" className="text-white/80 hover:text-purple-300 transition-all transform hover:scale-110">
+                <a href="https://linkedin.com/in/harsh-raj-ai" className="text-white/80 hover:text-purple-300 transition-all transform hover:scale-110">
                   <Linkedin className="w-6 h-6" />
                 </a>
-                <a href="mailto:contact@example.com" className="text-white/80 hover:text-purple-300 transition-all transform hover:scale-110">
+                <a href="mailto:harshrajbpr@gmail.com" className="text-white/80 hover:text-purple-300 transition-all transform hover:scale-110">
                   <Mail className="w-6 h-6" />
                 </a>
               </div>
