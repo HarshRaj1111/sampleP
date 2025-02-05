@@ -111,6 +111,26 @@ function App() {
               </a>
             </div>
             <div className="bg-[#150050] rounded-2xl overflow-hidden shadow-2xl hover:shadow-[#610094]/50 transition-all duration-300 transform hover:-translate-y-1 border border-[#3F0071]">
+              <a href="https://github.com/HarshRaj1111/sampleP" target="_blank">
+              <img 
+                src="./portfolioS.png" 
+                alt="AI Project"
+                className="w-full h-56 object-cover hover:scale-105 transition-transform duration-300"
+              />
+              <div className="p-8">
+                <h3 className="text-2xl font-semibold mb-3 text-white">Portfolio</h3>
+                <p className="text-purple-200 mb-6">
+                  Designed a portfolio website.
+                </p>
+                <div className="flex space-x-3">
+                  <span className="px-4 py-2 bg-[#3F0071] text-purple-300 rounded-full text-sm">Vite</span>
+                  <span className="px-4 py-2 bg-[#3F0071] text-purple-300 rounded-full text-sm">React</span>
+                  <span className="px-4 py-2 bg-[#3F0071] text-purple-300 rounded-full text-sm">Typescript</span>
+                </div>
+              </div>
+              </a>
+            </div>
+            <div className="bg-[#150050] rounded-2xl overflow-hidden shadow-2xl hover:shadow-[#610094]/50 transition-all duration-300 transform hover:-translate-y-1 border border-[#3F0071]">
               <a href="https://github.com/HarshRaj1111/ArticulateAI" target="_blank">
               <img 
                 src="./page1.jpg"
@@ -126,6 +146,26 @@ function App() {
                   <span className="px-4 py-2 bg-[#3F0071] text-purple-300 rounded-full text-sm">HTML</span>
                   <span className="px-4 py-2 bg-[#3F0071] text-purple-300 rounded-full text-sm">CSS</span>
                   <span className="px-4 py-2 bg-[#3F0071] text-purple-300 rounded-full text-sm">Javascript</span>
+                </div>
+              </div>
+              </a>
+            </div>
+            <div className="bg-[#150050] rounded-2xl overflow-hidden shadow-2xl hover:shadow-[#610094]/50 transition-all duration-300 transform hover:-translate-y-1 border border-[#3F0071]">
+              <a href="https://github.com/HarshRaj1111/CyberGuardHackathon" target="_blank">
+              <img 
+                src="https://images.unsplash.com/photo-1555949963-aa79dcee981c?auto=format&fit=crop&w=800&q=80" 
+                alt="AI Project"
+                className="w-full h-56 object-cover hover:scale-105 transition-transform duration-300"
+              />
+              <div className="p-8">
+                <h3 className="text-2xl font-semibold mb-3 text-white">MediCA</h3>
+                <p className="text-purple-200 mb-6">
+                  Upcoming project.
+                </p>
+                <div className="flex space-x-3">
+                  <span className="px-4 py-2 bg-[#3F0071] text-purple-300 rounded-full text-sm">Gemini API</span>
+                  <span className="px-4 py-2 bg-[#3F0071] text-purple-300 rounded-full text-sm">React</span>
+                  <span className="px-4 py-2 bg-[#3F0071] text-purple-300 rounded-full text-sm">etc.</span>
                 </div>
               </div>
               </a>
